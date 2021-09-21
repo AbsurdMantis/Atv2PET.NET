@@ -1,0 +1,16 @@
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\bin\Debug\net5.0\Agenda3.exe
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\bin\Debug\net5.0\Agenda3.deps.json
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\bin\Debug\net5.0\Agenda3.runtimeconfig.json
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\bin\Debug\net5.0\Agenda3.runtimeconfig.dev.json
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\bin\Debug\net5.0\Agenda3.dll
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\bin\Debug\net5.0\ref\Agenda3.dll
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\bin\Debug\net5.0\Agenda3.pdb
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\obj\Debug\net5.0\Agenda3.csproj.AssemblyReference.cache
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\obj\Debug\net5.0\Agenda3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\obj\Debug\net5.0\Agenda3.AssemblyInfoInputs.cache
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\obj\Debug\net5.0\Agenda3.AssemblyInfo.cs
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\obj\Debug\net5.0\Agenda3.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\obj\Debug\net5.0\Agenda3.dll
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\obj\Debug\net5.0\ref\Agenda3.dll
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\obj\Debug\net5.0\Agenda3.pdb
+C:\Users\HomePC\source\repos\Agenda3\Agenda3\obj\Debug\net5.0\Agenda3.genruntimeconfig.cache
